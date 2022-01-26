@@ -1,2 +1,2 @@
 # Intro-to-JS
-A basic TODO list project as an introduction to JavaScript
+A basic TODO list project as an introduction to JavaScript. Purely frontend.
