@@ -113,11 +113,6 @@ select {
     appearance: none;
     outline: none;
     border: none;
-    color: #ff6f47;
-    width: 10rem;
-    cursor: pointer;
-    padding: 1rem;
-
 }
 
 .select {
@@ -126,6 +121,13 @@ select {
     overflow: hidden; 
 }
 
+
+select {
+    color: #ff6f47;
+    width: 10rem;
+    cursor: pointer;
+    padding: 1rem;
+}
 
 .select::after {
     content: "\25BC";
